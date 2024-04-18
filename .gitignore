@@ -292,5 +292,6 @@ pyrightconfig.json
 audio_files/
 openai_parser.py
 vito_sample.py
+.Ds_Store
 
 # End of https://www.toptal.com/developers/gitignore/api/python,pycharm,dotenv
