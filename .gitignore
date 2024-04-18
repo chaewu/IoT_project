@@ -289,7 +289,7 @@ poetry.toml
 pyrightconfig.json
 
 # 사용자 정의
-audio_files/
+# audio_files/
 openai_parser.py
 vito_sample.py
 .Ds_Store
